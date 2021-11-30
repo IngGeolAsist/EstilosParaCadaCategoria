@@ -203,9 +203,9 @@ Puedes probar si el mapa funciona cada vez que agregues un nuevo color para dete
 </body>
 </html>
 ```
-Siguiente Tutorial 
+Siguiente Tutorial https://github.com/IngGeolAsist/PerfilDeElevacion
 
 Haz click en el siguiente enlace para volver a la pagina inicial
-https://github.com/sampach95/ComoCrearMapasEnLaWebConLeaflet
+https://github.com/IngGeolAsist/ComoCrearMapasEnLaWebConLeaflet
 
 
